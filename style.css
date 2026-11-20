@@ -234,8 +234,7 @@ input:focus, select:focus {
   font-weight: 600;
   font-size: 0.95rem;
   margin-bottom: 4px;
-}
-.status-badge {
+}.status-badge {
   font-weight: 500;
   font-size: 0.78rem;
 }
